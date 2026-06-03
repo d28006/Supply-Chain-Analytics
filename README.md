@@ -2,7 +2,7 @@
 
 1. Project Title / Headline
 
-📦 Supply Chain Product Performance Dashboard: Revenue, Inventory, and Supplier Insights Across Product Categories
+ Supply Chain Product Performance Dashboard: Revenue, Inventory, and Supplier Insights Across Product Categories
 
 An interactive Power BI dashboard designed to monitor product performance across cosmetics, haircare, and skincare categories. It provides visibility into revenue generation, sales vs. production, order fulfillment efficiency, defect rates, and supplier contributions—empowering supply chain managers to optimize operations, reduce stock risks, and improve supplier collaboration.
 
@@ -14,19 +14,19 @@ The Supply Chain Product Performance Dashboard provides a comprehensive analysis
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Main platform for visualization and dashboard design
+ Power BI Desktop – Main platform for visualization and dashboard design
 
-🔄 Power Query (M) – For data extraction, transformation, and cleaning of SKU and supplier datasets
+ Power Query (M) – For data extraction, transformation, and cleaning of SKU and supplier datasets
 
-🧠 DAX (Data Analysis Expressions) – For creating dynamic measures such as revenue, stock levels, fulfillment %, and defect rates
+ DAX (Data Analysis Expressions) – For creating dynamic measures such as revenue, stock levels, fulfillment %, and defect rates
 
-🧩 Data Modeling – Structured relationships between product categories, suppliers, and SKU performance metrics
+ Data Modeling – Structured relationships between product categories, suppliers, and SKU performance metrics
 
-🗄 SQL Server – Used to preprocess transactional and supplier-level data before loading into Power BI
+ SQL Server – Used to preprocess transactional and supplier-level data before loading into Power BI
 
-💻 SQL (JOIN, GROUP BY, aggregation functions) – For preparing revenue, inventory, and order datasets
+ SQL (JOIN, GROUP BY, aggregation functions) – For preparing revenue, inventory, and order datasets
 
-📁 File Format – .pbix (Power BI project) with report exports for presentations
+ File Format – .pbix (Power BI project) with report exports for presentations
 
 4. Data Source
 
@@ -80,9 +80,9 @@ Breaks down stock by SKU, showing supplier contributions and dependency across c
 
 7. Business Impact & Insights
 
-📦 Skincare leads revenue ($241K) but has moderate defect rates—highlighting potential quality improvement needs.
+ Skincare leads revenue ($241K) but has moderate defect rates—highlighting potential quality improvement needs.
 
-📉 Cosmetics shows lowest fulfillment (73%), signaling risks in meeting demand despite sufficient production.
+ Cosmetics shows lowest fulfillment (73%), signaling risks in meeting demand despite sufficient production.
 
 🤝 Supplier concentration at SKU-level reveals dependencies—critical for mitigating risks in sourcing disruptions.
 
