@@ -84,8 +84,8 @@ Breaks down stock by SKU, showing supplier contributions and dependency across c
 
  Cosmetics shows lowest fulfillment (73%), signaling risks in meeting demand despite sufficient production.
 
-🤝 Supplier concentration at SKU-level reveals dependencies—critical for mitigating risks in sourcing disruptions.
+ Supplier concentration at SKU-level reveals dependencies—critical for mitigating risks in sourcing disruptions.
 
-📊 Balanced category contributions show that revenue is spread across all three categories, reducing reliance on a single product line.
+ Balanced category contributions show that revenue is spread across all three categories, reducing reliance on a single product line.
 
-🚀 Actionable Insight: Prioritize boosting cosmetics fulfillment rates and managing haircare defect issues to improve overall supply chain efficiency.)
+ Actionable Insight: Prioritize boosting cosmetics fulfillment rates and managing haircare defect issues to improve overall supply chain efficiency.)
